@@ -1,3 +1,3 @@
-# lmu-munich-wmt19
+# LMU Munich's submission to the news translation task at WMT 2019
 
-WMT19
+Code based on Sockeye.
